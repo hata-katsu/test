@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ae17b41-d03c-46c3-8a2d-a846ef8698e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/add.html" afterDir="false" />
-    </list>
+    <list default="true" id="8ae17b41-d03c-46c3-8a2d-a846ef8698e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +19,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/122-task" />
-                    <option name="lastUsedInstant" value="1634029501" />
+                    <option name="branchName" value="hotfix/1.7" />
+                    <option name="lastUsedInstant" value="1634029736" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
@@ -59,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634027605576</updated>
-      <workItem from="1634027608300" duration="901000" />
+      <workItem from="1634027608300" duration="1450000" />
     </task>
     <servers />
   </component>
